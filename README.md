@@ -16,4 +16,4 @@
 - 12 -支持文件拖放
 - 13 -颜色选择工具
 
-详情：https://www.jhhaha.com
+详情：https://www.jianghong.xyz
